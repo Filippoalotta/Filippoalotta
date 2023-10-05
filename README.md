@@ -1,5 +1,5 @@
 # Hi, i'm Filippo Alotta
-- 👋 To know more about me visit my [Portfolio](https://github.com/Filippoalotta/Portfolio)
+- 👋 To know more about me visit my [Portfolio](https://github.com/Filippoalotta/Portfolio/)
 - 👀 I’m interested to working on `Ambitious Project`
 - 👨‍💻 I’m currently learning `Angular`
 - 🔭 I’m looking to collaborate with another `Web Developer`
